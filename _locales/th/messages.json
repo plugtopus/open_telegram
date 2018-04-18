@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "This extension automatically creates free access to Telegram, web.telegram.org, through stable and verified proxy servers."
+   },
+   "name": {
+      "message": "Open telegram"
+   },
+   "shortname": {
+      "message": "telegram"
+   },
+   "title": {
+      "message": "Open telegram"
+   }
+}

@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Это расширение, автоматически создаёт свободный доступ к Телеграм, web.telegram.org, через стабильные и проверенные прокси сервера."
+   },
+   "name": {
+      "message": "Открытый telegram"
+   },
+   "shortname": {
+      "message": "telegram"
+   },
+   "title": {
+      "message": "Открытый telegram"
+   }
+}
